@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vtu5hKwF63szafygsUTK6YLke5gpceu0Y+RwYLtORkntkz5XiTz0M6msFtSU83ocUr4hZVoq8ujKUFogkKmexg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bruni\\Desktop\\Estudos\\AspNetCore_Estudos\\Quiz\\src\\Quiz.Business\\Quiz.Business.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bruni\\.nuget\\packages\\fluentvalidation\\9.5.1\\fluentvalidation.9.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}
