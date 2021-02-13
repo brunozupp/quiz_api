@@ -11,5 +11,8 @@ namespace Quiz.Business.Domain
         public string Description { get; set; }
 
         public bool IsCorrect { get; set; }
+
+        // Para o relacionamento
+        public Question Question { get; set; }
     }
 }

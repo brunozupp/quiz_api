@@ -9,6 +9,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quiz.Data", "src\Quiz.Data\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quiz.Business", "src\Quiz.Business\Quiz.Business.csproj", "{CC2DFFD0-F34F-45D1-BE95-BCF353E783FA}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{376AB8D0-23B5-47DC-B8EC-9E317FD1F3A7}"
+	ProjectSection(SolutionItems) = preProject
+		Anotacoes.txt = Anotacoes.txt
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

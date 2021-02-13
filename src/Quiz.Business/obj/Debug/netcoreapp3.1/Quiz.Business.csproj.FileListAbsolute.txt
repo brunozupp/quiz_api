@@ -1,0 +1,9 @@
+C:\Users\bruni\Desktop\Estudos\AspNetCore_Estudos\Quiz\src\Quiz.Business\bin\Debug\netcoreapp3.1\Quiz.Business.deps.json
+C:\Users\bruni\Desktop\Estudos\AspNetCore_Estudos\Quiz\src\Quiz.Business\bin\Debug\netcoreapp3.1\Quiz.Business.dll
+C:\Users\bruni\Desktop\Estudos\AspNetCore_Estudos\Quiz\src\Quiz.Business\bin\Debug\netcoreapp3.1\Quiz.Business.pdb
+C:\Users\bruni\Desktop\Estudos\AspNetCore_Estudos\Quiz\src\Quiz.Business\obj\Debug\netcoreapp3.1\Quiz.Business.csprojAssemblyReference.cache
+C:\Users\bruni\Desktop\Estudos\AspNetCore_Estudos\Quiz\src\Quiz.Business\obj\Debug\netcoreapp3.1\Quiz.Business.AssemblyInfoInputs.cache
+C:\Users\bruni\Desktop\Estudos\AspNetCore_Estudos\Quiz\src\Quiz.Business\obj\Debug\netcoreapp3.1\Quiz.Business.AssemblyInfo.cs
+C:\Users\bruni\Desktop\Estudos\AspNetCore_Estudos\Quiz\src\Quiz.Business\obj\Debug\netcoreapp3.1\Quiz.Business.csproj.CoreCompileInputs.cache
+C:\Users\bruni\Desktop\Estudos\AspNetCore_Estudos\Quiz\src\Quiz.Business\obj\Debug\netcoreapp3.1\Quiz.Business.dll
+C:\Users\bruni\Desktop\Estudos\AspNetCore_Estudos\Quiz\src\Quiz.Business\obj\Debug\netcoreapp3.1\Quiz.Business.pdb

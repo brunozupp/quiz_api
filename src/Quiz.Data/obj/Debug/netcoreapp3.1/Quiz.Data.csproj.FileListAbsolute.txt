@@ -1,0 +1,12 @@
+C:\Users\bruni\Desktop\Estudos\AspNetCore_Estudos\Quiz\src\Quiz.Data\bin\Debug\netcoreapp3.1\Quiz.Business.dll
+C:\Users\bruni\Desktop\Estudos\AspNetCore_Estudos\Quiz\src\Quiz.Data\obj\Debug\netcoreapp3.1\Quiz.Data.csprojAssemblyReference.cache
+C:\Users\bruni\Desktop\Estudos\AspNetCore_Estudos\Quiz\src\Quiz.Data\obj\Debug\netcoreapp3.1\Quiz.Data.AssemblyInfoInputs.cache
+C:\Users\bruni\Desktop\Estudos\AspNetCore_Estudos\Quiz\src\Quiz.Data\obj\Debug\netcoreapp3.1\Quiz.Data.AssemblyInfo.cs
+C:\Users\bruni\Desktop\Estudos\AspNetCore_Estudos\Quiz\src\Quiz.Data\bin\Debug\netcoreapp3.1\Quiz.Data.deps.json
+C:\Users\bruni\Desktop\Estudos\AspNetCore_Estudos\Quiz\src\Quiz.Data\bin\Debug\netcoreapp3.1\Quiz.Data.dll
+C:\Users\bruni\Desktop\Estudos\AspNetCore_Estudos\Quiz\src\Quiz.Data\bin\Debug\netcoreapp3.1\Quiz.Data.pdb
+C:\Users\bruni\Desktop\Estudos\AspNetCore_Estudos\Quiz\src\Quiz.Data\bin\Debug\netcoreapp3.1\Quiz.Business.pdb
+C:\Users\bruni\Desktop\Estudos\AspNetCore_Estudos\Quiz\src\Quiz.Data\obj\Debug\netcoreapp3.1\Quiz.Data.csproj.CoreCompileInputs.cache
+C:\Users\bruni\Desktop\Estudos\AspNetCore_Estudos\Quiz\src\Quiz.Data\obj\Debug\netcoreapp3.1\Quiz.Data.csproj.CopyComplete
+C:\Users\bruni\Desktop\Estudos\AspNetCore_Estudos\Quiz\src\Quiz.Data\obj\Debug\netcoreapp3.1\Quiz.Data.dll
+C:\Users\bruni\Desktop\Estudos\AspNetCore_Estudos\Quiz\src\Quiz.Data\obj\Debug\netcoreapp3.1\Quiz.Data.pdb

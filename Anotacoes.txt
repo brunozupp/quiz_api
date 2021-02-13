@@ -1,0 +1,6 @@
+Pacotes:
+ 1 - EF Core Relational -> Atribui mais métodos para trabalhar na construção do banco
+ 2 - EF Core Tools -> Habilita os comandos de migrations no Package Manager Console
+ Ex: Add-Migration FirstMigration -Project Quiz.Data
+
+ 3 - EF Core SqlServer -> É preciso habilitar nos projetos Api e Data
